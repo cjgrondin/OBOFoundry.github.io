@@ -4,14 +4,14 @@ id: exo
 preferredPrefix: ExO
 description: Vocabularies for describing exposure data to inform understanding of environmental health.
 domain: health
-homepage: http://ctdbase.org/help/exposureHelp.jsp
+homepage: 
 tracker: https://github.com/CTDbase/exposure-ontology/issues
 page: http://ctdbase.org/downloads/#exposures
 contact:
-  label: Cynthia Grondin
-  email: cjgrondin@ncsu.edu
-  github: cjgrondin
-  orcid: 0000-0002-4642-1738
+  label: 
+  email: 
+  github: 
+  orcid: 
 license:
   url: https://creativecommons.org/licenses/by/4.0/
   label: CC BY 4.0
